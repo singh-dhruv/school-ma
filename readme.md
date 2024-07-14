@@ -11,8 +11,7 @@ Another School Management System build with laravel and PHP 7.
 . If you need PHP 5 support then use version [v1.0](https://github.com/hrshadhin/school-management-system/releases/tag/v1.0).
 For Enterprise edition checkout here [EE](https://github.com/hrshadhin/school-management-system/tree/empty)
 
-# Join Our Discord Server
-:mega:[CloudSchool](https://discord.gg/7rXyuu8):mega:
+
 
 # Features
 |   Community Edition   |   Enterprise Edition   |
@@ -160,7 +159,7 @@ password: demo123
 
 # Security Vulnerabilities
 
-If you discover a security vulnerability within SMS, please send an e-mail to H.R. Shadhin via [dev@hrshadhin.me](mailto:dev@hrshadhin.me). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within SMS, please send an e-mail to DHRUV PRATAP SINGH via db4726@srmist.edu.in. All security vulnerabilities will be promptly addressed.
 
 # License
 
