@@ -159,7 +159,7 @@ password: demo123
 
 # Security Vulnerabilities
 
-If you discover a security vulnerability within SMS, please send an e-mail to DHRUV PRATAP SINGH via db4726@srmist.edu.in. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within SMS, please send an e-mail to DHRUV PRATAP SINGH via dv4726@srmist.edu.in. All security vulnerabilities will be promptly addressed.
 
 # License
 
